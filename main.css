@@ -1,0 +1,32 @@
+body {
+	width: 100%;
+	height: auto;
+	background-color: #eae1e0;
+}
+
+.navbar {
+	background-color: #a3a09c;
+	width: 100%;
+	height: 75px;
+}
+
+/*.blocks {
+	display: inline;
+
+}*/
+
+
+
+.postQuestion {
+	border: 2px solid #a3a09c;
+	height: 150px;
+	
+	
+}
+
+.beingHelped {
+	border: 2px solid #a3a09c;
+	height: 150px;
+	
+
+}
